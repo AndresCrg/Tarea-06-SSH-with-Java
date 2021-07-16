@@ -1,1 +1,1 @@
-# Tarea-06-SSH_with_JAVA
+# Tarea-06-SSH-with-Java
